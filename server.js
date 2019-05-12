@@ -23,7 +23,7 @@ app.get("*", (req, res) => {
 });
 
 //connect to the Mongo DB
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/googlebooks");
+mongoose.connect(process.env.MONGODB_URI || "mongodb://heroku_1xcx2p3z:M-zrQ1LkalFFGTNxuqC12NmnvveXrU4q@ds155626.mlab.com:55626/heroku_1xcx2p3z");
 
 // start the API server
 app.listen(PORT, () => {
