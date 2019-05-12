@@ -1,4 +1,7 @@
-# React Google Books Search
+# Google Books Search
+
+
+![Google Books Search](./GoogleBooks.png)
 
 
 Technology was used in this app:
