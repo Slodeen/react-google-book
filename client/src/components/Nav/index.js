@@ -2,7 +2,7 @@ import React from "react";
 
 const Nav = props => (
   <div>
-    <nav className="navbar fixed-top" style={{ marginBottom: "40px", backgroundColor: "gray", height: "50px" }}>
+    <nav className="navbar fixed-top" style={{ marginBottom: "40px", backgroundColor: "lightblue", height: "50px" }}>
       <ul className="nav navbar-nav navbar-left">
         <li>
           <a href="/" style={{ color: "white", textDecoration: "none", fontSize: "20px" }}>
