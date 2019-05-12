@@ -1,14 +1,12 @@
 # React Google Books Search
 
-React based app looking at the Google Books API and returning information on authors, titles, and subjects.
 
+Technology was used in this app:
+
+* Node
 * React
+* Express
 * MongoDB
 * Mongoose
-* Express
-* Node
-* JavaScript
-* Bootstrap
-* Axios
 
-Email: ryan.t.jae@gmail.com
+To run this application please install node package
