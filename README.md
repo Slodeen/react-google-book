@@ -1,7 +1,7 @@
 # Google Books Search
 
 
-![Google Books Search](./GoogleBooks.png)
+![Google Books Search](./client/public/GoogleBooks.png)
 
 
 Technology was used in this app:
